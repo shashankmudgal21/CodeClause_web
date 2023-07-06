@@ -1,0 +1,22 @@
+.AboutSection {
+  max-width: 80vw;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+.AboutSection .imgContainer img {
+  height: 28vh;
+  width: 271px;
+  border-radius: 164px;
+  margin-top: 101px;
+}
+.intro p {
+  margin-top: 47px;
+}
+.git {
+  filter: invert(100%);
+  margin: 1px;
+  height: 6vh;
+}
